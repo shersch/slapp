@@ -1,0 +1,67 @@
+{
+    "user": {
+        "firstName": "",
+        "apiKey": ""
+    },
+    "menu": [
+    {
+        "name": "Deep Work / DND",
+        "parameters": {
+            "status_text": "Deep Work / DND",
+            "status_emoji": ":no_entry:",
+            "status_expiration": 2,
+            "do_not_disturb": false,
+            "away": false
+        }
+    },
+    {
+        "name": "Lunch",
+        "parameters": {
+            "status_text": "I'm at lunch",
+            "status_emoji": ":taco:",
+            "status_expiration": 1,
+            "do_not_disturb": false,
+            "away": false
+        }
+    },
+    {
+        "name": "In a Meeting",
+        "parameters": {
+            "status_text": "In a meeting",
+            "status_emoji": ":spiral_calendar_pad:",
+            "status_expiration": 1,
+            "do_not_disturb": false,
+            "away": false
+        }
+    },
+    {
+        "name": "Wellness Break",
+        "parameters": {
+            "status_text": "Wellness Break",
+            "status_emoji": ":person_in_lotus_position:",
+            "status_expiration": 1,
+            "do_not_disturb": false,
+            "away": false
+        }
+    },
+    {
+        "name": "Traveling / Out of Office",
+        "parameters": {
+            "status_text": "Traveling / Out of Office",
+            "status_emoji": ":airplane:",
+            "status_expiration": 0,
+            "do_not_disturb": false,
+            "away": false
+        }
+    },
+    {
+        "name": "Away",
+        "parameters": {
+            "status_text": "",
+            "status_emoji": "",
+            "status_expiration": 0,
+            "do_not_disturb": false,
+            "away": true
+        }
+    }]
+}
