@@ -31,7 +31,7 @@ After downloading it, unzip it by double-clicking it.  Drag that resulting file 
 You will be prompted for your first name.  This is not a trick.  Slack requires your first name so it can communicate with the app.  This was the easiest 300 points on your SAT’s, so you better get this right the first time.  Click “Submit”.  Now it’s going to ask for the API key, which is the `User Oath Token` that we discussed earlier.  Go copy/pasta that puppy in there, and click "Submit”!
 
 ### Installing from source
-If you want to create/build the "app" yourself, you can run the set `setup.py` file.  If you want to just skip to the meat and potatoes, `slapp.py` is where all the magic is happening.  I'm not going to dig too deep here; if you're doing it this way, there's a good chance that you can just read the code and see what it's doing.  Long story short, it checks to see if you have a config already, and if not, it helps you get one in place.  Really, just use the app.
+If you want to create/build the "app" yourself, you can run the `setup.py` file.  If you want to just skip to the meat and potatoes, `slapp.py` is where all the magic is happening.  I'm not going to dig too deep here; if you're doing it this way, there's a good chance that you can just read the code and see what it's doing.  Long story short, it checks to see if you have a config already, and if not, it helps you get one in place.  Really, just use the app.
 
 ## The End!… kind of
 
